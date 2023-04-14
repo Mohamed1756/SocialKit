@@ -1,70 +1,36 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Media Kit App
 
-## Available Scripts
+Media Kit App is an AI-powered platform that allows users to create customizable media kit templates for their brands or businesses. With this app, users can easily generate stunning media kits with ease, thanks to the intuitive drag-and-drop editor and AI-generated templates. The app offers pre-designed templates that can be customized or created from scratch.
 
-In the project directory, you can run:
+Features
 
-### `npm start`
+Some of the features of the Media Kit App include:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Customizable Templates: Users can create their own media kit templates from scratch or customize the pre-designed templates available on the app.
+AI-generated Templates: Users can use the AI-powered platform to generate a media kit template tailored to their needs.
+Easy Editing: Users can edit their media kit templates with the intuitive drag-and-drop editor.
+Pricing: The app offers two pricing plans: Basic and Pro. The Basic plan costs $10 per month and includes 5 templates and basic support. The Pro plan costs $20 per month and includes unlimited templates and premium support.
+Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started with the Media Kit App, simply enter your email on the app's website to sign up. Once signed up, you can start creating your media kit templates using the app's intuitive editor.
 
-### `npm test`
+Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Media Kit App is built using HTML, CSS, and JavaScript. The app also uses the Poppins font and the AI-powered platform for generating templates.
 
-### `npm run build`
+Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions to the Media Kit App are welcome. To contribute, please follow the guidelines in the CONTRIBUTING.md file.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Media Kit App is licensed under the MIT License. See the LICENSE file for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
