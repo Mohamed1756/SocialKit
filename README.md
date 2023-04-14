@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Media Kit App
+# Media Kit App
 
 Media Kit App is an AI-powered platform that allows users to create customizable media kit templates for their brands or businesses. With this app, users can easily generate stunning media kits with ease, thanks to the intuitive drag-and-drop editor and AI-generated templates. The app offers pre-designed templates that can be customized or created from scratch.
 
