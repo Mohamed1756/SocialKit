@@ -1,3 +1,4 @@
+
 .menu {
     position: absolute;
     top: 20px;
@@ -21,7 +22,7 @@
     margin-left: 0;
   }
   body {
-    background-color: #404047;
+    background-color: #0a0a0a;
     font-family: 'Poppins', sans-serif;
   }
   h1{
@@ -115,8 +116,9 @@
   }
   .container {
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
   
   #getStartedImage {
@@ -136,6 +138,35 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    overflow: auto;
   }
+  
+  @media screen and (max-width: 767px) {
+    .col-md-6 {
+      width: 100%;
+    }
+  }
+  
+  
+  
+  #pricing {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .images-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  #silverMonthlyImage,
+  #goldMonthlyImage {
+    margin: 0 10px;
+  }
+  
+  
   
