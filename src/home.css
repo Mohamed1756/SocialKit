@@ -116,44 +116,47 @@
   }
   .container {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
   }
   
-  #getStartedImage {
+  .left-section {
+    flex: 1;
+  }
+  
+  .right-section {
     flex: 1;
   }
   
   #getStartedImage img {
-    display: block;
     max-width: 100%;
     height: auto;
   }
   
   #get-started {
-    flex: 1;
-    padding: 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    overflow: auto;
+    padding: 20px;
+    
   }
-  
-  @media screen and (max-width: 767px) {
-    .col-md-6 {
-      width: 100%;
-    }
+  #get-started h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
   }
-  
-  
-  
+  #get-started p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+  }
+
   #pricing {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
+    margin-top: 30px;
+    overflow: auto;
+    margin-bottom: 50px;
+  }
+
+  #pricing h2{
+    align-self: flex-start;
+    margin-bottom: 10px;
   }
   
   .images-container {
@@ -163,10 +166,78 @@
     margin-top: 30px;
   }
   
-  #silverMonthlyImage,
-  #goldMonthlyImage {
+  .images-container img {
     margin: 0 10px;
+    max-height: 530px;
+    max-width: 50%;
   }
+
+  .contactContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .left-Contactsection {
+    margin-top: 30px;
+    flex-basis: 50%;
+  }
+  
+  #contactImage {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #contactImage img {
+    max-width: 100%;
+    height: 400px;
+  }
+  
+  .right-Contactsection {
+    flex-basis: 50%;
+    padding-left: 30px;
+  }
+  
+  #contactSection h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  #contactSection p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  #contactSection form input,
+  #contactSection form button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #contactSection form input[type="text"],
+  #contactSection form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #contactSection form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #contactSection form button:hover {
+    background-color: #0062cc;
+  }
+
   
   
   
