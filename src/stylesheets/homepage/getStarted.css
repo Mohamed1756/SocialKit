@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    align-items: center;
+  }
+  .left-section {
+    flex: 1;
+  }
+  
+  .right-section {
+    flex: 1;
+  }
+  
+  /* styles for #getStartedImage */
+  #getStartedImage img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* styles for #get-started */
+  #get-started {
+    padding: 20px;
+  }
+  
+  #get-started h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+  }
+  
+  #get-started p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+  }
+
+  
+  
