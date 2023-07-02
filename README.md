@@ -9,8 +9,7 @@ Some of the features of the Media Kit App include:
 Customizable Templates: Users can create their own media kit templates from scratch or customize the pre-designed templates available on the app.
 AI-generated Templates: Users can use the AI-powered platform to generate a media kit template tailored to their needs.
 Easy Editing: Users can edit their media kit templates with the intuitive drag-and-drop editor.
-Pricing: The app offers two pricing plans: Basic and Pro. The Basic plan costs $10 per month and includes 5 templates and basic support. The Pro plan costs $20 per month and includes unlimited templates and premium support.
-Getting Started
+
 
 To get started with the Media Kit App, simply enter your email on the app's website to sign up. Once signed up, you can start creating your media kit templates using the app's intuitive editor.
 
